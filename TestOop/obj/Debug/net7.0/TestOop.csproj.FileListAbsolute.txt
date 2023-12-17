@@ -1,0 +1,14 @@
+D:\Projects\Test\TestOop\bin\Debug\net7.0\TestOop.exe
+D:\Projects\Test\TestOop\bin\Debug\net7.0\TestOop.deps.json
+D:\Projects\Test\TestOop\bin\Debug\net7.0\TestOop.runtimeconfig.json
+D:\Projects\Test\TestOop\bin\Debug\net7.0\TestOop.dll
+D:\Projects\Test\TestOop\bin\Debug\net7.0\TestOop.pdb
+D:\Projects\Test\TestOop\obj\Debug\net7.0\TestOop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Test\TestOop\obj\Debug\net7.0\TestOop.AssemblyInfoInputs.cache
+D:\Projects\Test\TestOop\obj\Debug\net7.0\TestOop.AssemblyInfo.cs
+D:\Projects\Test\TestOop\obj\Debug\net7.0\TestOop.csproj.CoreCompileInputs.cache
+D:\Projects\Test\TestOop\obj\Debug\net7.0\TestOop.dll
+D:\Projects\Test\TestOop\obj\Debug\net7.0\refint\TestOop.dll
+D:\Projects\Test\TestOop\obj\Debug\net7.0\TestOop.pdb
+D:\Projects\Test\TestOop\obj\Debug\net7.0\TestOop.genruntimeconfig.cache
+D:\Projects\Test\TestOop\obj\Debug\net7.0\ref\TestOop.dll
